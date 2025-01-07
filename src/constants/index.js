@@ -47,25 +47,25 @@ export const feedback = [
   {
     id: "feedback-1",
     content:
-      "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
-    name: "Herman Jensen",
-    title: "Founder & Leader",
+      "Hoobank revolutionized how I handle my finances. The instant transfers and smart budgeting tools helped me save 30% more each month. The future of banking is here.",
+    name: "Sarah Chen",
+    title: "Small Business Owner",
     img: people01,
   },
   {
     id: "feedback-2",
     content:
-      "Money makes your life easier. If you're lucky to have it, you're lucky.",
-    name: "Steve Mark",
-    title: "Founder & Leader",
+      "Setting up my Hoobank account took less than 5 minutes. The interface is incredibly intuitive and the customer service team was there to help every step of the way. Best banking decision I've made.",
+    name: "Marcus Rodriguez",
+    title: "Freelance Developer",
     img: people02,
   },
   {
     id: "feedback-3",
     content:
-      "It is usually people in the money business, finance, and international trade that are really rich.",
+      "As someone who travels frequently, Hoobank's borderless payments are a game-changer. Zero hidden fees, excellent exchange rates, and instant transfers have made managing international transactions effortless.",
     name: "Kenn Gallagher",
-    title: "Founder & Leader",
+    title: "Influencer",
     img: people03,
   },
 ];
